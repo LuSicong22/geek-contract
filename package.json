@@ -25,6 +25,8 @@
     "start": "dotenv -e .env react-scripts start",
     "start:test": "dotenv -e .env.test react-scripts start",
     "start:prod": "dotenv -e .env.prod react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "CI='' && dotenv -e .env react-scripts build",
     "build:test": "CI='' && dotenv -e .env.test react-scripts build",
     "build:prod": "CI='' && dotenv -e .env.prod react-scripts build",
