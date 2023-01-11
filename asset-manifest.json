@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/geek-contract/static/css/main.19bdbe66.css",
+    "main.js": "/geek-contract/static/js/main.d0642214.js",
+    "static/js/787.027ffaaa.chunk.js": "/geek-contract/static/js/787.027ffaaa.chunk.js",
+    "static/media/tron.svg": "/geek-contract/static/media/tron.f4ceeb122ec14c36ef3322b7dcbe85e0.svg",
+    "index.html": "/geek-contract/index.html",
+    "main.19bdbe66.css.map": "/geek-contract/static/css/main.19bdbe66.css.map",
+    "main.d0642214.js.map": "/geek-contract/static/js/main.d0642214.js.map",
+    "787.027ffaaa.chunk.js.map": "/geek-contract/static/js/787.027ffaaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19bdbe66.css",
+    "static/js/main.d0642214.js"
+  ]
+}
