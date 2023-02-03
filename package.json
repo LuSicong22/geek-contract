@@ -22,7 +22,7 @@
     "start": "dotenv -e .env react-scripts start",
     "start:test": "dotenv -e .env.test react-scripts start",
     "start:prod": "dotenv -e .env.prod react-scripts start",
-    "build": "CI='' && dotenv -e .env react-scripts build",
+    "build": "react-scripts build",
     "build:test": "CI='' && dotenv -e .env.test react-scripts build",
     "build:prod": "CI='' && dotenv -e .env.prod react-scripts build",
     "test": "react-scripts test",
