@@ -9,7 +9,7 @@ import PageNotFound from "./components/PageNotFound";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="btfs/QmdXNEB5db5cEmDTaazgX3Zn9r8jyqLnJApRowG2jVv9SS/">
       <Layout>
         <AppHeader />
         <div className="main flex">
